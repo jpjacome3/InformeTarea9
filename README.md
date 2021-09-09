@@ -21,6 +21,9 @@
     
   **CAPITULO 24**
   
+![teo1](https://user-images.githubusercontent.com/84586968/132772553-2f1aef1f-0dbd-4f25-8008-f58268acc332.png)
+
+![teo2](https://user-images.githubusercontent.com/84586968/132772555-a19dfc20-4f8c-43c2-9c0f-89af1c1c01ab.png)
   
   ## 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS 
 
