@@ -136,7 +136,12 @@
    
    ## 6. BIBLIOGRAFIA
  
-   Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning.
-  
+Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning.
+
+Boylestad, R. (2011). Introducción al análisis de circuitos. México: Pearson Education
+
+Gutiérrez, A., Ortega, J., Parra, V., & Pérez, Á. (2014). Circuitos eléctricos. Madrid: Universidad Nacional de Educación a Distancia.
+
+Pérez Tirado, Á. (2010). Manual de electrónica básica. Colombia: Editorial Universidad del Atlántico.
   
 
