@@ -13,7 +13,15 @@
  
   ## 1. OBJETIVO GENERAL
   
+  - mprender la teoria y lo practico de los transformadores y los sistemas de 3 fases apartir de ejercicios
+  
   ## 1.2 OBJETIVOS ESPECÍFICOS
+  
+  - Comprender el estudio de los Transformadores y circuitos acoplados, además de losSistemas de tres fases, todo esto aplicando los conocimientos aprendidos durante clases.
+
+  - Calcular el voltaje y la corriente en circuitos con transformadores con núcleo de hierro y núcleo de aire.
+  
+  - Analizar el sistema de tres fases de 6 alambres y un alambre mediante el estudio de sus fasores.
   
   ## 2. MARCO TEÓRICO
   **CAPITULO 23**
