@@ -71,6 +71,8 @@
    
    ## 5. CONCLUSIONES
    
+   - Al analizar los transformadores hemos podido comprender de mejor manera en qué campos se usan los sistemas trifásicos, además de tener una mejor idea a la hora de emplearlos     de forma correcta y resolver cualquier tipo de operación o ejercicio. Tenemos una idea más clara sobre los transformadores y sus características fundamentales.
+   
    ## 6. BIBLIOGRAFIA
  
    Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning.
