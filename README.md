@@ -71,7 +71,12 @@
    
    ## 5. CONCLUSIONES
    
+   - Llegamos a conocer la importanciade los transformadores que se usan en sistemas de potencia eléctrica para aumentar el voltaje en transmisiones a larga distancia y para             disminuirlo luego otra vez a un nivel seguro para su empleo en casas y oficinas.
+
+   
    - Al analizar los transformadores hemos podido comprender de mejor manera en qué campos se usan los sistemas trifásicos, además de tener una mejor idea a la hora de emplearlos     de forma correcta y resolver cualquier tipo de operación o ejercicio. Tenemos una idea más clara sobre los transformadores y sus características fundamentales.
+   
+   - Se concluye que mediante distintos tipos de ejercicios propuestos sea por Transformadores y circuitos acoplados, o por Sistemas de tres fases que lo aprendidio en                  clases se ha clarificado.
    
    ## 6. BIBLIOGRAFIA
  
