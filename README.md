@@ -36,7 +36,57 @@
   ## 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS 
 
   **CAPITULO 23**
-  
+ 
+ ![WhatsApp Image 2021-09-10 at 06 19 32](https://user-images.githubusercontent.com/85137954/132846903-27ca6829-7f78-4a02-a8fa-7498f5500266.jpeg)
+
+![WhatsApp Image 2021-09-10 at 06 19 59](https://user-images.githubusercontent.com/85137954/132846922-14400f91-036d-4768-8ba4-b54475d1eef9.jpeg)
+
+![WhatsApp Image 2021-09-10 at 06 20 28](https://user-images.githubusercontent.com/85137954/132846935-140a6bbe-5f4f-4e61-830c-693c384d0d8d.jpeg)
+
+![WhatsApp Image 2021-09-10 at 06 20 53](https://user-images.githubusercontent.com/85137954/132846944-26f8190c-f915-4b97-91cb-2d600ee21d57.jpeg)
+
+![WhatsApp Image 2021-09-10 at 06 21 24](https://user-images.githubusercontent.com/85137954/132846997-2d18386a-6b44-43d2-9613-b445be949c58.jpeg)
+
+![WhatsApp Image 2021-09-10 at 06 22 29](https://user-images.githubusercontent.com/85137954/132847003-4311775a-a466-4643-be74-a419abb853b8.jpeg)
+
+![WhatsApp Image 2021-09-10 at 06 23 08](https://user-images.githubusercontent.com/85137954/132847016-e853156c-7fba-47b5-bdf2-d110054dc0a4.jpeg)
+
+![WhatsApp Image 2021-09-10 at 06 24 33](https://user-images.githubusercontent.com/85137954/132847033-12cf6e41-a846-4d23-bfdd-f004e90196fb.jpeg)
+
+![WhatsApp Image 2021-09-10 at 06 25 21](https://user-images.githubusercontent.com/85137954/132847097-fcc80f57-78c9-47c0-bf4c-e70b606d490a.jpeg)
+
+![WhatsApp Image 2021-09-10 at 06 25 51](https://user-images.githubusercontent.com/85137954/132847103-310a5cda-c66f-4b37-a372-30226a299612.jpeg)
+
+![WhatsApp Image 2021-09-10 at 06 26 15](https://user-images.githubusercontent.com/85137954/132847107-dd5b823f-fb24-497a-ad0a-5653f402f7b0.jpeg)
+
+![WhatsApp Image 2021-09-10 at 06 26 43](https://user-images.githubusercontent.com/85137954/132847110-c2b3ca62-a865-4050-b3d9-2c7be516fb40.jpeg)
+
+![WhatsApp Image 2021-09-10 at 06 27 06](https://user-images.githubusercontent.com/85137954/132847167-b25bd75b-c1b6-46d9-928d-d0ff0fa8607f.jpeg)
+
+![WhatsApp Image 2021-09-10 at 06 27 27](https://user-images.githubusercontent.com/85137954/132847181-e081b813-a2a6-4d3f-88d1-9f92a26ced38.jpeg)
+
+![WhatsApp Image 2021-09-10 at 06 27 50](https://user-images.githubusercontent.com/85137954/132847188-1d369186-f99a-4038-8cc0-08b15551c992.jpeg)
+
+![WhatsApp Image 2021-09-10 at 06 28 11](https://user-images.githubusercontent.com/85137954/132847193-4d092a28-b586-4bfa-9ce0-d0f4e73b3975.jpeg)
+
+![WhatsApp Image 2021-09-10 at 06 29 02](https://user-images.githubusercontent.com/85137954/132847221-fc2400a1-ce1b-49e3-913e-e6f0badc744f.jpeg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
   **CAPITULO 24**
