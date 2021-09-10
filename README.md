@@ -79,12 +79,8 @@
 
 ![WhatsApp Image 2021-09-10 at 06 40 21](https://user-images.githubusercontent.com/85137954/132848367-723069e8-e93d-4dbb-9c3f-445fef50a1e8.jpeg)
 
-
-
-
-
-
-    
+![WhatsApp Image 2021-09-10 at 06 41 15](https://user-images.githubusercontent.com/85137954/132848477-1a0cc9b4-7067-4d03-a8c5-207e85d95718.jpeg)
+ 
     
   **CAPITULO 24**
   
