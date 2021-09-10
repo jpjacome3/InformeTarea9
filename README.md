@@ -84,6 +84,16 @@
     
   **CAPITULO 24**
   
+  ![WhatsApp Image 2021-09-10 at 06 54 09](https://user-images.githubusercontent.com/85137954/132849878-cfe76183-82f0-4f95-b7f5-3e6555d1dde9.jpeg)
+
+![WhatsApp Image 2021-09-10 at 06 54 28](https://user-images.githubusercontent.com/85137954/132849890-1978f547-f76d-49ad-b43d-90fe137c2de3.jpeg)
+  
+![WhatsApp Image 2021-09-10 at 06 54 46](https://user-images.githubusercontent.com/85137954/132849895-262fd525-3c05-4bee-8499-948e941b82fb.jpeg)
+  
+![WhatsApp Image 2021-09-10 at 06 55 17](https://user-images.githubusercontent.com/85137954/132849902-74dd9206-cdb8-4f09-9a74-67c3655c358a.jpeg)
+  
+![WhatsApp Image 2021-09-10 at 06 55 44](https://user-images.githubusercontent.com/85137954/132849924-6b4096fe-6dc5-4100-b16a-b9458aa0dcbd.jpeg)  
+  
 ![1](https://user-images.githubusercontent.com/84586968/132801776-03558a02-a317-4fd0-8958-e406737ed083.PNG)
 
 ![2](https://user-images.githubusercontent.com/84586968/132801778-5c52e697-9922-4715-8338-aa2e18c5e7a5.PNG)
