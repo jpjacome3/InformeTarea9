@@ -1,4 +1,4 @@
-# InformeTarea9
+# Informe Tarea 9
 **Integrantes:**
 - Jordy Coyaguillo
 - Jean Jacome
@@ -26,7 +26,8 @@
   ## 2. MARCO TEÓRICO
   **CAPITULO 23**
   
-    
+  ![png (22)](https://user-images.githubusercontent.com/85137954/132852103-e8c41103-2c39-4db8-aa39-9c22e1c30305.png)
+
   **CAPITULO 24**
   
 ![teo1](https://user-images.githubusercontent.com/84586968/132772553-2f1aef1f-0dbd-4f25-8008-f58268acc332.png)
