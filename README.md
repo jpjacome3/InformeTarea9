@@ -13,7 +13,7 @@
  
   ## 1. OBJETIVO GENERAL
   
-  - mprender la teoria y lo practico de los transformadores y los sistemas de 3 fases apartir de ejercicios
+  - Comprender la teoria y lo practico de los transformadores y los sistemas de 3 fases apartir de ejercicios
   
   ## 1.2 OBJETIVOS ESPECÍFICOS
   
